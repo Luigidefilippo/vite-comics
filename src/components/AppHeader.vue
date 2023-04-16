@@ -69,6 +69,8 @@ export default {
 }
 </script>
 
+
+
 <template>
     <header class="container-header">
         <div class="left-header">
@@ -85,6 +87,8 @@ export default {
         </nav>
     </header>
 </template>
+
+
 
 <style scoped lang="scss">
 @use "./style/partials/mixins" as*;

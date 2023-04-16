@@ -17,7 +17,7 @@ export default {
     <AppHeader />
     <AppContent />
     <AppMerch />
-    <AppFooter />
+    <AppFooter />                                                       
 </template>
 <style lang="scss">
 @use "./components/style/general.scss" as*;

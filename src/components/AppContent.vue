@@ -1,3 +1,4 @@
+<!-- CONTENT -->
 <script>
 export default {
     name: "AppContent"
@@ -13,7 +14,8 @@ export default {
 <style scoped lang="scss">
 
 .content-section{
-    height: 100px;
+    height: 200px;
+    text-align: center;
     width: 100%;
     background-color: black;
 

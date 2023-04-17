@@ -111,11 +111,6 @@ export default {
             }
         }
     }
-    methods: {
-        getImagePath(img) {
-            return new URL(`../assets/img/${img.images}`, import.meta.url).href;
-        }
-    }
 }
 </script>
 
